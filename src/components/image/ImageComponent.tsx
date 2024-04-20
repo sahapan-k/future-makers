@@ -5,7 +5,7 @@ import CircularProgress from '@mui/material/CircularProgress';
 import { PokemonType } from '@interface/pokemon.interface';
 
 // Styles
-import '@styles/ImageComponent.css';
+import '@styles/imageComponent.css';
 
 interface Props {
   url?: string;
