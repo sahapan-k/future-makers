@@ -1,0 +1,9 @@
+.text-grow-on-hover {
+  transition: all 0.33s;
+}
+
+.text-grow-on-hover:hover {
+  transform: scale(1.12);
+  cursor: pointer;
+  font-weight: 600;
+}
